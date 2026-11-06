@@ -5,6 +5,29 @@
     <description>Updates for DFP Cleaner, from DF Productions.</description>
     <language>en</language>
     <item>
+      <title>Version 2.5</title>
+      <pubDate>Fri, 06 Nov 2026 18:13:06 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font-family: -apple-system, "Helvetica Neue", sans-serif; font-size: 13px; line-height: 1.45; margin: 0 6px 8px; }
+h2 { font-size: 15px; margin: 0.4em 0 0.4em; }
+h3 { font-size: 13px; margin: 1em 0 0.3em; }
+h4 { font-size: 12px; margin: 0.8em 0 0.2em; }
+p { margin: 0.4em 0; }
+ul, ol { margin: 0.3em 0; padding-left: 1.3em; }
+li { margin: 0.2em 0; }
+code { font-family: ui-monospace, Menlo, monospace; font-size: 12px; }
+@media (prefers-color-scheme: dark) { a { color: #79b8ff; } }
+</style>
+<h2>DFP Cleaner 2.5</h2>
+<p><strong>DFP Cleaner is now signed by DF Productions and checked by Apple, so it opens on any Mac without the Open Anyway step.</strong></p>
+<ul><li>Updates still arrive through the app as before, and every one must still carry DF Productions' update signature.</li></ul>]]></description>
+      <enclosure url="https://github.com/df-productions/DFP-Cleaner-Releases/releases/download/v2.5/DFP-Cleaner-2.5-2026-11-04-604ae71.zip" length="5058484" type="application/octet-stream" sparkle:edSignature="42jGJUrfwe0Yyez/CBe0xIJJGuKchVJ/hUzVujYpIHHL940ylgRJg0fO/Ktezo17I+6gwd525D494+BjlZI1Cw=="/>
+    </item>
+    <item>
       <title>Version 2.4</title>
       <pubDate>Mon, 02 Nov 2026 21:24:41 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
